@@ -1,4 +1,4 @@
-## Hi there 👋
+Motivated aspiring Front-End Developer with a solid foundation in HTML, CSS, JavaScript, and hands-on learning experience with React, Next.js, and TypeScript. Skilled in creating responsive and adaptive web layouts to ensure a seamless user experience. Proficient with Git for version control and eager to apply my technical skills and passion for learning to a challenging trainee or junior developer role.
 
 <!--
 **gapeevbachmut/gapeevbachmut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
