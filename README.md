@@ -47,7 +47,7 @@ The app provides a clean interface for writing, editing, and browsing notes.. Wi
 
   
           
-##🗣️ Languages
+## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)
 
