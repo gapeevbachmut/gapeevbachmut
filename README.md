@@ -3,17 +3,6 @@
   <hr/>
   Junior Fullstack Developer with solid basic knowledge of HTML, CSS, Git and initial experience with JavaScript and React. I have strong analytical thinking, a high level of self-organization and motivation for further learning. Experience from previous fields of work has formed responsibility, teamwork skills, sociability and the ability to quickly adapt to new tasks. Focused on development in web development and creating practical, useful and convenient web solutions.
 <hr>
-<h3>Featured Projects </h3>
-
-[Clothica](https://clothica-team-04-frontend.vercel.app/) - A fully featured apparel e-commerce platform with dynamic catalog, product filtering, form validation, theme switching, and API-based backend integration. Advanced state management (Zustand, React Query), responsive user interface, and rich animations for enhanced user experience. Team project - Next.js + Node.js
-
-[NoteHub](https://09-auth-mocha-phi.vercel.app/) - NoteHub is a simple and efficient application designed for managing personal notes. 
-The app provides a clean interface for writing, editing, and browsing notes.. With support for keyword search and structured organization. Personal project - Next.js
-
-[Image search](https://blended-react-2-gallery.vercel.app/) - application for searching images on demand. Personal project - React.js
-
-[BookStack](https://artem-topolsky.github.io/BookStack-Devs-05/) - A bookstore app where you can search for books by category, view a description of the selected book in a modal window, and see the total order amount in the shopping cart. Team project - JavaScript
-<hr>
 
 ### My stack and tools 🛠:
 
@@ -33,6 +22,21 @@ The app provides a clean interface for writing, editing, and browsing notes.. Wi
 <a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=GitHub&color=%23181717"></a>
 <a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=Git&labelColor=white&color=%23F05032"></a>
 </p>
+
+<hr>
+<h3>Featured Projects </h3>
+
+[Clothica](https://clothica-team-04-frontend.vercel.app/) - A fully featured apparel e-commerce platform with dynamic catalog, product filtering, form validation, theme switching, and API-based backend integration. Advanced state management (Zustand, React Query), responsive user interface, and rich animations for enhanced user experience. Team project - Next.js + Node.js
+
+[NoteHub](https://09-auth-mocha-phi.vercel.app/) - NoteHub is a simple and efficient application designed for managing personal notes. 
+The app provides a clean interface for writing, editing, and browsing notes.. With support for keyword search and structured organization. Personal project - Next.js
+
+[Image search](https://blended-react-2-gallery.vercel.app/) - application for searching images on demand. Personal project - React.js
+
+[BookStack](https://artem-topolsky.github.io/BookStack-Devs-05/) - A bookstore app where you can search for books by category, view a description of the selected book in a modal window, and see the total order amount in the shopping cart. Team project - JavaScript
+<hr>
+
+
 
 
 ## Links
