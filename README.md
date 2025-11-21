@@ -1,4 +1,8 @@
 ### 👋 Hi, my name is Andrii 
+<h1 align="center">👋 Hi, my name is Andrii</h1>
+<p align="center">Fullstack Developer</p>
+  <hr/>
+  Junior Fullstack Developer with solid basic knowledge of HTML, CSS, Git and initial experience with JavaScript and React. I have strong analytical thinking, a high level of self-organization and motivation for further learning. Experience from previous fields of work has formed responsibility, teamwork skills, sociability and the ability to quickly adapt to new tasks. Focused on development in web development and creating practical, useful and convenient web solutions.
 
 ### My stack and tools 🛠:
 
