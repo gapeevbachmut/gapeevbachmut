@@ -3,27 +3,26 @@
 ### My stack and tools 🛠:
 
 <p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&labelColor=white&color=%23E34F26"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-CSS3?style=for-the-badge&logo=CSS3&color=%23663399"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?style=for-the-badge&logo=JavaScript&labelColor=black&color=%23F7DF1E"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=TypeScript&labelColor=white&color=%233178C6"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/React_js-React_js?style=for-the-badge&logo=React&logoColor=white&color=%2361DAFB"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Next_js-Next_js?style=for-the-badge&logo=Next.js&logoColor=white&color=%23000000"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Node_js-Node_js?style=for-the-badge&logo=Node.js&logoColor=white&color=%235FA04E"></a>
 </p>
 
 <p align="center">
-   <a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Postman-Postman?style=plastic&logo=Postman&logoColor=%23FF6C37&logoSize=auto&color=black&link=https%3A%2F%2Fwww.postman.com%2F"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
-  <a href="#" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-VSCode?style=plastic&logo=VSCode&logoColor=white&logoSize=auto&color=%232F80ED&link=https%3A%2F%2Fcode.visualstudio.com%2F"></a>
-  <a href="#" target="_blank"><img alt="Static Badge"  src="https://img.shields.io/badge/Git-Git?style=plastic&logo=Git&logoColor=white&logoSize=auto&color=%23F05032&link=https%3A%2F%2Fgit-scm.com%2F"></a>
-  <a href="#" target="_blank"><img alt="Static Badge"  src="https://img.shields.io/badge/GitHub-GitHub?style=plastic&logo=GitHub&logoColor=white&logoSize=auto&color=%23181717&link=https%3A%2F%2Fgithub.com%2F"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/VSCode-VSCode?style=for-the-badge&logo=VSCode&color=%232F80ED"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=Postman&color=black"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=GitHub&color=%23181717"></a>
+<a href="#" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=Git&labelColor=white&color=%23F05032"></a>
 </p>
 
 
 ## Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-hapieiev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-hapieiev)
 
 
   
