@@ -41,7 +41,9 @@ The app provides a clean interface for writing, editing, and browsing notes.. Wi
 
 ## Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-hapieiev)
+[![linkedin](https://img.shields.io/badge/Linkedin-Linkedin?logo=Linkedin&labelColor=%23FAFAFA&color=%2326A5E4)](https://www.linkedin.com/in/andrii-hapieiev)
+[![Telegram](https://img.shields.io/badge/Telegram-Telegram?logo=Telegram&labelColor=%23FAFAFA&color=%2326A5E4)](https://t.me/@andrii_GA) 
+[![Email](https://img.shields.io/badge/Gmail-Gmail?logo=Gmail&labelColor=%23FAFAFA&color=%23EA4335)](mailto:gapeev1979@gmail.com)
 
   
           
