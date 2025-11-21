@@ -3,7 +3,10 @@
   <hr/>
   Junior Fullstack Developer with solid basic knowledge of HTML, CSS, Git and initial experience with JavaScript and React. I have strong analytical thinking, a high level of self-organization and motivation for further learning. Experience from previous fields of work has formed responsibility, teamwork skills, sociability and the ability to quickly adapt to new tasks. Focused on development in web development and creating practical, useful and convenient web solutions.
 <hr>
-<h3>Навчальні проєкти</h3>
+<h3>Featured Projects </h3>
+
+[NoteHub](https://09-auth-mocha-phi.vercel.app/) - NoteHub is a simple and efficient application designed for managing personal notes. 
+The app provides a clean interface for writing, editing, and browsing notes.. With support for keyword search and structured organization.
 
 <hr>
 
