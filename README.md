@@ -6,8 +6,11 @@
 <h3>Featured Projects </h3>
 
 [NoteHub](https://09-auth-mocha-phi.vercel.app/) - NoteHub is a simple and efficient application designed for managing personal notes. 
-The app provides a clean interface for writing, editing, and browsing notes.. With support for keyword search and structured organization.
+The app provides a clean interface for writing, editing, and browsing notes.. With support for keyword search and structured organization. Personal project - Next.js
 
+[Image search](https://blended-react-2-gallery.vercel.app/) - application for searching images on demand. Personal project - React.js
+
+[BookStack](https://artem-topolsky.github.io/BookStack-Devs-05/) - A bookstore app where you can search for books by category, view a description of the selected book in a modal window, and see the total order amount in the shopping cart. Team project - JavaScript -
 <hr>
 
 ### My stack and tools 🛠:
