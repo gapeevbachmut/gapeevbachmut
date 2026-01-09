@@ -26,6 +26,8 @@
 <hr>
 <h3>Featured Projects </h3>
 
+[Travel Trucks](https://super-travel-trucks.vercel.app/) - The goal of the project is to create the front-end part of a web application for TravelTrucks, a company that rents campers. The web application include several pages, including a home page, a catalog page, and a page for each individual camper with reviews and a booking form. Personal project - Next.js, TypeScript, Axios, Zustand, Formik + Yup.
+
 [Clothica](https://clothica-team-04-frontend.vercel.app/) - A fully featured apparel e-commerce platform with dynamic catalog, product filtering, form validation, theme switching, and API-based backend integration. Advanced state management (Zustand, React Query), responsive user interface, and rich animations for enhanced user experience. Team project - Next.js + Node.js
 
 [NoteHub](https://09-auth-mocha-phi.vercel.app/) - NoteHub is a simple and efficient application designed for managing personal notes. 
